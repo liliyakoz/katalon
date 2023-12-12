@@ -3,7 +3,7 @@
    <description></description>
    <name>span_Wishlist</name>
    <tag></tag>
-   <elementGuidId>872ab9d5-3677-4a2f-95a5-0285d09d55e2</elementGuidId>
+   <elementGuidId>22de9269-83be-4d32-90b2-189f997fb8ae</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>8a93199f-0525-48a7-8f1b-71a60f739abe</webElementGuid>
+      <webElementGuid>638080ab-a287-437c-bb32-c1ca8be4d5aa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cart-label</value>
-      <webElementGuid>33e5093f-4f4f-4c26-a2c3-cc7da99994ea</webElementGuid>
+      <webElementGuid>bbc02a61-a268-4797-842a-76b71c433b5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Wishlist</value>
-      <webElementGuid>46a3f88b-57ae-4dbf-ae00-59ddc276990c</webElementGuid>
+      <webElementGuid>54a5deae-d9da-4f41-a91a-8321d9fc9228</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;header-links-wrapper&quot;]/div[@class=&quot;header-links&quot;]/ul[1]/li[4]/a[@class=&quot;ico-wishlist&quot;]/span[@class=&quot;cart-label&quot;]</value>
-      <webElementGuid>f6777637-f34b-4971-9834-fd5ae8f12d6c</webElementGuid>
+      <webElementGuid>4a2bb885-68cd-4f42-94ce-d9b0fca44410</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span</value>
-      <webElementGuid>e1d660f1-6ee8-45b7-8d6e-3588952a1209</webElementGuid>
+      <webElementGuid>c3954068-fa70-4761-9222-e1c3a869e2bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Wishlist' or . = 'Wishlist')]</value>
-      <webElementGuid>48e902a5-7802-4267-a6a5-50adda75d4ca</webElementGuid>
+      <webElementGuid>38bb7790-96bf-4531-8a11-4f2bf717fe4d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Добавление товара в список желаний</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>185d45d8-556d-4afe-85ee-e25e3756dd9c</testCaseGuid>
+</TestCaseEntity>

@@ -3,11 +3,22 @@
    <description></description>
    <name>a_Jewelry</name>
    <tag></tag>
-   <elementGuidId>c5f0915c-f747-446d-a898-05bdd40c4dd0</elementGuidId>
+   <elementGuidId>5a590ad3-a1c3-4c61-962b-38e53859cafd</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
          <value>//a[contains(text(),'Jewelry')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/jewelry' and (text() = 'Jewelry
+        ' or . = 'Jewelry
+        ')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>9d5901de-8f6b-4288-8c84-f29c8f2e9dd3</webElementGuid>
+      <webElementGuid>1b8d49fd-b395-4a6a-9d1d-570bac3f559f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/jewelry</value>
-      <webElementGuid>47190bce-798f-48c5-8f16-36218e7b1677</webElementGuid>
+      <webElementGuid>3c2bbab8-1f5b-4450-b5e8-c15d4552cbd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>hover</value>
-      <webElementGuid>59d6e360-b3fb-4b8b-b013-3cefc510c2ee</webElementGuid>
+      <webElementGuid>1f0b5906-4198-4f05-b3b2-e82c8ca46d9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +58,7 @@
       <type>Main</type>
       <value>Jewelry
         </value>
-      <webElementGuid>426ef10c-e23b-47b8-91ef-7021301c3130</webElementGuid>
+      <webElementGuid>8313ecbf-0c7c-47ff-bdec-8e9d7dbe3ff4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +66,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header-menu&quot;]/ul[@class=&quot;top-menu&quot;]/li[6]/a[@class=&quot;hover&quot;]</value>
-      <webElementGuid>1d5f00b5-6a97-40d0-a274-2b5b1dfe5920</webElementGuid>
+      <webElementGuid>fa0fa495-8bfd-41a1-8d23-0699fd5df094</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +74,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Jewelry')]</value>
-      <webElementGuid>881c7307-34a6-4183-9579-02eeb5e137d1</webElementGuid>
+      <webElementGuid>11a8eacb-1b91-4362-b91c-49d1e7cca176</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +82,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/jewelry')]</value>
-      <webElementGuid>ef14ee44-fc50-46e0-b88e-0646b409df5f</webElementGuid>
+      <webElementGuid>332efa0b-424a-46ed-905d-b224c6acd121</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +90,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a</value>
-      <webElementGuid>7b30a04f-ab83-4b9b-91b9-5d6e9df7dc0a</webElementGuid>
+      <webElementGuid>6ae9bfc3-2fce-424b-824e-99301e069a65</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +100,6 @@
       <value>//a[@href = '/jewelry' and (text() = 'Jewelry
         ' or . = 'Jewelry
         ')]</value>
-      <webElementGuid>436a44ef-59fa-44be-8e72-ceb73b6d788f</webElementGuid>
+      <webElementGuid>0e4724e7-c0ee-4a62-91f2-4565ee6c932b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
